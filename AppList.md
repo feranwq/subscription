@@ -612,3 +612,4 @@
 | 最右                   | [cn.xiaochuankeji.tieba](/docs/cn.xiaochuankeji.tieba.md)                                                                                                         | 5      |
 | 作业帮家长版           | [com.zuoyebang.knowledge](/docs/com.zuoyebang.knowledge.md)                                                                                                       | 2      |
 | 作业精灵               | [com.pcncn.jj](/docs/com.pcncn.jj.md)                                                                                                                             | 1      |
+| 国铁吉讯               | [com.crgt.ilifecom.crgt.ilife](/docs/com.crgt.ilifecom.crgt.ilife.md)                                                                                             | 2      |
