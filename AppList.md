@@ -212,6 +212,7 @@
 | 谷歌相册               | [com.google.android.apps.photos](/docs/com.google.android.apps.photos.md)                                                                                         | 2      |
 | 呱呱天气               | [com.qingwatq.weather](/docs/com.qingwatq.weather.md)                                                                                                             | 1      |
 | 果冻宝盒               | [com.guodongbaohe.app](/docs/com.guodongbaohe.app.md)                                                                                                             | 1      |
+| 国铁吉讯               | [com.crgt.ilifecom.crgt.ilife](/docs/com.crgt.ilifecom.crgt.ilife.md)                                                                                             | 2      |
 | 古诗文网               | [org.gushiwen.gushiwen](/docs/org.gushiwen.gushiwen.md)                                                                                                           | 1      |
 | 古文岛                 | [com.guwendao.gwd](/docs/com.guwendao.gwd.md)                                                                                                                     | 2      |
 | 海尔智家               | [com.haier.uhome.uplus](/docs/com.haier.uhome.uplus.md)                                                                                                           | 2      |
@@ -612,4 +613,3 @@
 | 最右                   | [cn.xiaochuankeji.tieba](/docs/cn.xiaochuankeji.tieba.md)                                                                                                         | 5      |
 | 作业帮家长版           | [com.zuoyebang.knowledge](/docs/com.zuoyebang.knowledge.md)                                                                                                       | 2      |
 | 作业精灵               | [com.pcncn.jj](/docs/com.pcncn.jj.md)                                                                                                                             | 1      |
-| 国铁吉讯               | [com.crgt.ilifecom.crgt.ilife](/docs/com.crgt.ilifecom.crgt.ilife.md)                                                                                             | 2      |
